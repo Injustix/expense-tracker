@@ -1,0 +1,11 @@
+{
+    "name": "yaroslav/expense-tracker",
+    "autoload": {
+        "psr-4": {
+            "Yaroslav\\ExpenseTracker\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^3.12"
+    }
+}
