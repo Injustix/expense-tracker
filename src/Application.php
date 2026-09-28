@@ -1,7 +1,7 @@
-namespace Yaroslav\\ExpenseTracker;
+<?php
+
+namespace Yaroslav\ExpenseTracker;
 
 class Application
 {
-
-    
 }
