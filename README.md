@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Запуск
+
+1. Установить Docker Desktop и Git.
+2. `git clone https://github.com/Injustix/expense-tracker.git`, затем `cd expense-tracker`
+3. `docker compose up -d --build`, затем открыть http://127.0.0.1:8080/expenses
+
+Остановить: `docker compose down`
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
